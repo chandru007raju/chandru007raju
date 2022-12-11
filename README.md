@@ -16,7 +16,10 @@ Thank you for taking the time to view my GitHub Profile 🖤:
 
 - 💻 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-## Technologies
+## Programming Languages
+
+### - C++ , HTML,CSS & Java Script , python .
+
 
 
 
