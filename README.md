@@ -18,7 +18,7 @@ Thank you for taking the time to view my GitHub Profile 🖤:
 
 ## Programming Languages
 
-### - C++ , HTML,CSS & Java Script , python .
+* C++, HTML,CSS & Java Script, python.
 
 
 
