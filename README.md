@@ -1,22 +1,24 @@
-<!-- - 👋 Hi, I’m @chandru007raju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<!-- - 👋 Hi, I’m S R Chandra Shekar
+- 👀 I’m interested in Web Development and Competetive Coding ...
+- 🌱 I’m currently learning React Native...
 - 📫 How to reach me ... -->
 
-<img src="https://user-images.githubusercontent.com/77179768/138194418-72dd49e9-393a-4f00-94e7-2850a138cdf4.png" min-width="350px" max-width="350px" width="350px" align="right"/>
 
-##### Hey 👋
+# Hey 👋:
 
-Thank you for taking the time to view my GitHub Profile :)
+Thank you for taking the time to view my GitHub Profile 🖤:
 
 ## About me
 
-- 🙋🏻‍♂️ My name is Felipe Freitas
-- 👨🏻‍💻 I'm a Software Engineer, that has been working as a Mobile Developer since 2020
+- 🙋🏻‍♂️ My name is S R ChandraShekar.
+
+- 👨🏻‍💻 I'm a ComputerScience Engineer.
+
 - 💻 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ## Technologies
+
+
 
 <!---
 chandru007raju/chandru007raju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
