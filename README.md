@@ -20,6 +20,16 @@ Thank you for taking the time to view my GitHub Profile 🖤:
 
 * C++, HTML,CSS & Java Script, python.
 
+## DataBase
+
+* MySQL,Mongo DB.
+
+## FrameWorks
+
+* Node JS,React JS, DJango.
+
+
+
 
 
 
