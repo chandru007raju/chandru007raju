@@ -26,7 +26,7 @@ Thank you for taking the time to view my GitHub Profile 🖤:
 
 ## FrameWorks
 
-* React JS, Express Js, Node JS, DJango.
+* React JS, Express Js, Node JS, DJango, BootStrap.
 
 
 
