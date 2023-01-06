@@ -18,15 +18,15 @@ Thank you for taking the time to view my GitHub Profile 🖤:
 
 ## Programming Languages
 
-* C++, HTML,CSS & Java Script, python.
+* C++, Java Script, HTML, CSS, Python.
 
 ## DataBase
 
-* MySQL,Mongo DB.
+*  Mongo DB, MySQL .
 
 ## FrameWorks
 
-* Node JS,React JS, DJango.
+* React JS, Express Js, Node JS, DJango.
 
 
 
