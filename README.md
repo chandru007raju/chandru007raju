@@ -12,7 +12,7 @@ Thank you for taking the time to view my GitHub Profile 🖤:
 
 - 🙋🏻‍♂️ My name is S R ChandraShekar.
 
-- 👨🏻‍💻 I'm a ComputerScience Engineer.
+- 👨🏻‍💻 I'm a ComputerScience Engineer.(computer programmer and software engineer)
 
 - 💻 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
